@@ -8,7 +8,7 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         WindowStyle="None"
-        Title="MainWindow" Height="490" Width="840" AllowsTransparency="True" Background="Transparent">
+        Title="BianFlower - Start Page" Height="490" Width="840" AllowsTransparency="True" Background="Transparent">
     <Border x:Name="外边框" CornerRadius="30" Height="450" Width="800">
         <Border.Effect>
             <DropShadowEffect BlurRadius="20" Opacity="0.7" />
